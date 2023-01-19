@@ -1,0 +1,3 @@
+git clone https://github.com/gduarteAndreani/DesafiosEDIT
+git add Comandos 2
+git commit -m "Ejercicio 1"
