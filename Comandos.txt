@@ -1,0 +1,7 @@
+(Parado en la carpeta del repositorio local)
+1. git init
+2. git add "readme.md"
+3. git commit -m "readme inicial"
+4. git add "Comandos.txt"
+5. git commit -m "segundo commit"
+6- git log
